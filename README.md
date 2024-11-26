@@ -11,9 +11,14 @@ This project is a graphical application that generates and visualizes maze pathf
  **Pathfinding Algorithms 🛤️**:
     The app implements three popular pathfinding algorithms:   
     1. **A-star🌟**: Finds the shortest path using a combination of actual distance and heuristic estimates to the goal. 🚀
+    
     2. **BFS (Breadth-First Search) 🧭**: Explores the maze level by level, ensuring an optimal solution for unweighted mazes. 🌊
+    
     3. **DFS (Depth-First Search) ⛏️**: Explores deep into the maze, backtracking when no further moves are possible. 🌳 
+    
     Each algorithm’s progress is shown by highlighting explored nodes 🔍 and final paths ➡️.
+
+    
 **Interactive User Interface 🖱️**:
     The intuitive GUI allows users to generate a maze, select a pathfinding algorithm, and watch the solution unfold. Real-time updates show each algorithm’s exploration and     pathfinding process. 🖼️💻
     
