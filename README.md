@@ -41,11 +41,11 @@ Each algorithm’s progress is shown by highlighting             explored nodes 
 
 ## 📸 Screenshots
 🤝 Welcome Message  
-<img src="https://github.com/user-attachments/assets/5b9c3bdf-a3c5-44d9-aba5-ebe6dc67a85d" width="300" height="200" />
+<img src="https://github.com/user-attachments/assets/5b9c3bdf-a3c5-44d9-aba5-ebe6dc67a85d" width="400" height="400" />
 
 🧭 Maze generation  
-<img src="https://github.com/user-attachments/assets/c9f8c63a-092e-48f0-b3b8-57aedc8d625c" width="300" height="200" />
+<img src="https://github.com/user-attachments/assets/c9f8c63a-092e-48f0-b3b8-57aedc8d625c" width="400" height="400" />
 
 🔄 Pathfinding animation  
-<img src="https://github.com/user-attachments/assets/28180375-6d31-4c01-abab-2ffcb0d7f3b8" width="300" height="200" />
+<img src="https://github.com/user-attachments/assets/28180375-6d31-4c01-abab-2ffcb0d7f3b8" width="400" height="400" />
 
