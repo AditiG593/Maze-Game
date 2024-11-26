@@ -9,11 +9,11 @@ This project is a graphical application that generates and visualizes maze pathf
     The maze is generated using a recursive backtracking algorithm. It consists of walls 🧱 and open paths 🚶‍♂️, ensuring a dynamic maze layout that can be generated with         adjustable sizes. The maze is represented by a grid of cells, with walls and paths visually distinct. 🏢🔲
     
  **Pathfinding Algorithms 🛤️**:
-    The app implements three popular pathfinding algorithms:   
-     **A-star🌟**: Finds the shortest path using a combination of actual distance and heuristic estimates to the goal. 🚀
-     **BFS (Breadth-First Search) 🧭**: Explores the maze level by level, ensuring an optimal solution for unweighted mazes. 🌊
-     **DFS (Depth-First Search) ⛏️**: Explores deep into the maze, backtracking when no further moves are possible. 🌳 
-    Each algorithm’s progress is shown by highlighting explored nodes 🔍 and final paths ➡️.
+The app implements three popular pathfinding algorithms:
+    A* (A-star) 🌟: Finds the shortest path using a combination of actual distance and heuristic estimates to the goal. 🚀
+    BFS (Breadth-First Search) 🧭: Explores the maze level by level, ensuring an optimal solution for unweighted mazes. 🌊
+    DFS (Depth-First Search) ⛏️: Explores deep into the maze, backtracking when no further moves are possible. 🌳 
+Each algorithm’s progress is shown by highlighting             explored nodes 🔍 and final paths ➡️.
 
     
 **Interactive User Interface 🖱️**:
