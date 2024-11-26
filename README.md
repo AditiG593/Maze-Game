@@ -37,3 +37,14 @@ Each algorithm’s progress is shown by highlighting             explored nodes 
 - **🎓 Educational Tool**: Ideal for teaching and understanding maze generation and pathfinding algorithms.
 - **🤖 Algorithm Demonstration**: Provides a step-by-step visual explanation of search algorithms.
 - **🧑‍🏫 Interactive Learning**: Engages users in exploring and solving mazes visually.
+
+
+## 📸 Screenshots
+🤝 Welcome Message
+![Welcome](https://github.com/user-attachments/assets/5b9c3bdf-a3c5-44d9-aba5-ebe6dc67a85d)
+
+🧭 Maze generation
+![Maze generate](https://github.com/user-attachments/assets/c9f8c63a-092e-48f0-b3b8-57aedc8d625c)
+
+🔄 Pathfinding animation
+![Algorithm path finding](https://github.com/user-attachments/assets/28180375-6d31-4c01-abab-2ffcb0d7f3b8)
